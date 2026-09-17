@@ -1,0 +1,4 @@
+name,period,execution,deadline,offset
+T1,4,2,4,0
+T2,5,2,5,0
+T3,10,3,10,0
